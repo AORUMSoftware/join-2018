@@ -18,6 +18,14 @@ const x = (a, b) => {
     return a + b
 }
 
+const x = (callback) => (
+    (a, b) => (
+        callback(a, b)
+    )
+ )
+ 
+ console.log(x((a, b) => a + b)(7, 3))
+ 
 // const
 // let
 // var
