@@ -3,5 +3,5 @@
 <p>Aqui você encontrará instruções para instalação dos exemplos e bibliotecas citados no minicurso.</p>
 
 
-#Acesso para os slides
+# Acesso para os slides
 <a href="https://docs.google.com/presentation/d/1s8QsGOnbIFgxrDRhZiYtKSVGdgYLae0XQBteu_0-sV8/edit#slide=id.g35f391192_00" target="_blank">Clique aqui</a>
