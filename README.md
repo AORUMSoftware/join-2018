@@ -14,4 +14,4 @@
 - <a href="https://babeljs.io/" target="_blank">Babel Loader</a>
 - <a href="https://github.com/joaoregis" target="_blank">João Regis (GitHub)</a>
 - <a href="https://github.com/vinicius741" target="_blank">Vinicus Moreira (GitHub)</a>
-- <a href"https://materializecss.com/" target="_blank">Materialize CSS</a>
+- <a href="https://materializecss.com/" target="_blank">Materialize CSS</a>
